@@ -1,5 +1,5 @@
 # Backend Developer
-Para esse teste, você deve criar uma aplicação com autenticação e cadastro de produtos.
+Para esse teste, você deve criar uma aplicação com autenticação e cadastro de produtos com campos básicos como Nome, Imagem, Categoria e Descrição.
 
 ## Requisitos
 - Código bem escrito
